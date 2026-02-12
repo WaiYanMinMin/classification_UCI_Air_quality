@@ -1,5 +1,5 @@
 # NGDS Assignment 1 – Air Quality ML Pipeline
-
+Note : This is the assignment project for my **Assessment 1** of **Next Generation Data Science** module of **University of Hertfordshire**.
 **Python 3.10 is required** for this project because the notebook uses **PyCaret** for AutoML, which needs 3.10.
 
 ## How to run
