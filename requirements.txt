@@ -1,0 +1,17 @@
+# Core data & notebook
+ucimlrepo>=0.0.7
+pandas>=1.0.0
+numpy>=1.20.0
+
+# ML
+scikit-learn>=1.0.0
+
+# Plotting
+seaborn>=0.11.0
+matplotlib>=3.5.0
+
+# AutoML
+pycaret>=3.0.0
+
+# Explainability
+shap>=0.40.0

@@ -1,0 +1,10 @@
+.venv/
+venv/
+models/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+/notebook/logs.log
