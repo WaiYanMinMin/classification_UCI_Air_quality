@@ -1,6 +1,8 @@
 # NGDS Assignment 1 – Air Quality ML Pipeline
+
 Note : This is the assignment project for my **Assessment 1** of **Next Generation Data Science** module of **University of Hertfordshire**.
 **Python 3.10 is required** for this project because the notebook uses **PyCaret** for AutoML, which needs 3.10.
+**Dataset** - UCI airquality (https://archive.ics.uci.edu/dataset/360/air+quality)
 
 ## How to run
 
@@ -11,7 +13,6 @@ Note : This is the assignment project for my **Assessment 1** of **Next Generati
 
 3. **Create a virtual environment with Python 3.10 and install dependencies:**
    - go to project root foler.
-
 
    ```bash
    py -3.10 -m venv .venv
